@@ -1,0 +1,12 @@
+.blue{
+    background-color: aqua;
+
+}
+.container{
+    height: auto;
+    width: 500px;
+    border: 1px solid black;
+}
+.info{
+    background-color: bisque;
+}
